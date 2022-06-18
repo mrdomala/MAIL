@@ -1,0 +1,73 @@
+2022-06-18 12:08:43,071  INFO [main] CucumberRunner:232 - Browser opened sucessfully
+2022-06-18 12:09:18,095  INFO [main] CucumberRunner:241 - User in home page
+2022-06-18 12:09:23,375  INFO [main] CucumberRunner:250 - Clicked on login!
+2022-06-18 12:09:25,562  INFO [main] CucumberRunner:257 - Clicked on login inside the frame!
+2022-06-18 12:09:30,711  INFO [main] CucumberRunner:264 - User moved to National Id and Mobile Number login!
+2022-06-18 12:09:31,906  INFO [main] CucumberRunner:273 - User entered the nationalid as 2206104107
+2022-06-18 12:09:33,073  INFO [main] CucumberRunner:283 - User entered the nationalid as 533862687
+2022-06-18 12:09:33,102  INFO [main] CucumberRunner:289 - yet to click login!
+2022-06-18 12:09:36,298  INFO [main] CucumberRunner:292 - Clicked login!
+2022-06-18 12:09:36,299  INFO [main] CucumberRunner:299 - in loop OTP_0
+2022-06-18 12:09:43,415  INFO [main] CucumberRunner:302 - User entered the static otp_0 text block as : 1
+2022-06-18 12:09:43,416  INFO [main] CucumberRunner:310 - in loop OTP_1
+2022-06-18 12:09:44,519  INFO [main] CucumberRunner:313 - User entered the static otp_1 text block as : 1
+2022-06-18 12:09:44,521  INFO [main] CucumberRunner:321 - in loop OTP_2
+2022-06-18 12:09:45,627  INFO [main] CucumberRunner:324 - User entered the static otp_2 text block as : 1
+2022-06-18 12:09:45,629  INFO [main] CucumberRunner:332 - in loop OTP_3
+2022-06-18 12:09:46,726  INFO [main] CucumberRunner:335 - User entered the static otp_3 text block as : 1
+2022-06-18 12:09:49,883  INFO [main] CucumberRunner:343 - Waiting for logged in user profile screen!
+2022-06-18 12:10:04,894  INFO [main] CucumberRunner:345 - Successfully logged in with NID and Mobile No.
+2022-06-18 12:10:07,068  INFO [main] CucumberRunner:184 - Browser opened sucessfully
+2022-06-18 12:10:31,761  INFO [main] CucumberRunner:196 - User in home page
+2022-06-18 12:10:34,867  INFO [main] CucumberRunner:205 - Clicked on login!
+2022-06-18 12:10:36,960  INFO [main] CucumberRunner:212 - Clicked on login inside the frame!
+2022-06-18 12:10:40,092  INFO [main] CucumberRunner:222 - User entered the username as testmotor3
+2022-06-18 12:10:43,230  INFO [main] CucumberRunner:232 - User entered the password as Test12345
+2022-06-18 12:10:46,370  INFO [main] CucumberRunner:246 - in loop OTP0
+2022-06-18 12:10:53,470  INFO [main] CucumberRunner:249 - User entered the static otp_0 text block as : 1
+2022-06-18 12:10:53,472  INFO [main] CucumberRunner:257 - in loop OTP1
+2022-06-18 12:10:53,536  INFO [main] CucumberRunner:259 - User entered the static otp_1 text block as : 1
+2022-06-18 12:10:53,536  INFO [main] CucumberRunner:267 - in loop OTP2
+2022-06-18 12:10:53,591  INFO [main] CucumberRunner:269 - User entered the static otp2 text block as : 1
+2022-06-18 12:10:53,592  INFO [main] CucumberRunner:277 - in loop OTP3
+2022-06-18 12:10:53,648  INFO [main] CucumberRunner:279 - User entered the static otp_3 text block as : 1
+2022-06-18 12:10:56,783  INFO [main] CucumberRunner:287 - Waiting for logged in user profile screen!
+2022-06-18 12:11:11,784  INFO [main] CucumberRunner:289 - Successfully logged in with username and password!
+2022-06-18 12:13:15,898  INFO [main] CucumberRunner:33 - Verified header at dashboard
+2022-06-18 12:13:19,964  INFO [main] CucumberRunner:42 - Verified all policies at dashboard
+2022-06-18 12:13:21,997  INFO [main] CucumberRunner:184 - Browser opened sucessfully
+2022-06-18 12:13:47,107  INFO [main] CucumberRunner:196 - User in home page
+2022-06-18 12:13:50,344  INFO [main] CucumberRunner:205 - Clicked on login!
+2022-06-18 12:13:52,938  INFO [main] CucumberRunner:212 - Clicked on login inside the frame!
+2022-06-18 12:13:56,086  INFO [main] CucumberRunner:222 - User entered the username as testmotor3
+2022-06-18 12:13:59,253  INFO [main] CucumberRunner:232 - User entered the password as Test12345
+2022-06-18 12:14:02,419  INFO [main] CucumberRunner:246 - in loop OTP0
+2022-06-18 12:14:09,521  INFO [main] CucumberRunner:249 - User entered the static otp_0 text block as : 1
+2022-06-18 12:14:09,523  INFO [main] CucumberRunner:257 - in loop OTP1
+2022-06-18 12:14:09,604  INFO [main] CucumberRunner:259 - User entered the static otp_1 text block as : 1
+2022-06-18 12:14:09,605  INFO [main] CucumberRunner:267 - in loop OTP2
+2022-06-18 12:14:09,711  INFO [main] CucumberRunner:269 - User entered the static otp2 text block as : 1
+2022-06-18 12:14:09,713  INFO [main] CucumberRunner:277 - in loop OTP3
+2022-06-18 12:14:09,810  INFO [main] CucumberRunner:279 - User entered the static otp_3 text block as : 1
+2022-06-18 12:14:12,950  INFO [main] CucumberRunner:287 - Waiting for logged in user profile screen!
+2022-06-18 12:14:27,952  INFO [main] CucumberRunner:289 - Successfully logged in with username and password!
+2022-06-18 12:16:31,255  INFO [main] CucumberRunner:37 - Clicked on my profile
+2022-06-18 12:16:35,323  INFO [main] CucumberRunner:45 - Verified profile text
+2022-06-18 12:16:53,412  INFO [main] CucumberRunner:52 - Clicked on contact isnformation
+2022-06-18 12:16:55,052  INFO [main] CucumberRunner:184 - Browser opened sucessfully
+2022-06-18 12:17:17,478  INFO [main] CucumberRunner:196 - User in home page
+2022-06-18 12:17:20,578  INFO [main] CucumberRunner:205 - Clicked on login!
+2022-06-18 12:17:22,759  INFO [main] CucumberRunner:212 - Clicked on login inside the frame!
+2022-06-18 12:17:25,906  INFO [main] CucumberRunner:222 - User entered the username as testmotor3
+2022-06-18 12:17:29,047  INFO [main] CucumberRunner:232 - User entered the password as Test12345
+2022-06-18 12:17:32,210  INFO [main] CucumberRunner:246 - in loop OTP0
+2022-06-18 12:17:39,297  INFO [main] CucumberRunner:249 - User entered the static otp_0 text block as : 1
+2022-06-18 12:17:39,299  INFO [main] CucumberRunner:257 - in loop OTP1
+2022-06-18 12:17:39,401  INFO [main] CucumberRunner:259 - User entered the static otp_1 text block as : 1
+2022-06-18 12:17:39,402  INFO [main] CucumberRunner:267 - in loop OTP2
+2022-06-18 12:17:39,482  INFO [main] CucumberRunner:269 - User entered the static otp2 text block as : 1
+2022-06-18 12:17:39,483  INFO [main] CucumberRunner:277 - in loop OTP3
+2022-06-18 12:17:39,583  INFO [main] CucumberRunner:279 - User entered the static otp_3 text block as : 1
+2022-06-18 12:17:42,719  INFO [main] CucumberRunner:287 - Waiting for logged in user profile screen!
+2022-06-18 12:17:57,721  INFO [main] CucumberRunner:289 - Successfully logged in with username and password!
+2022-06-18 12:20:05,391  INFO [main] CucumberRunner:352 - Report gets generated
