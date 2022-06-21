@@ -24,10 +24,26 @@
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
+			<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin -->
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.8.1</version>
+				<configuration>
+					<source />
+					<target />
+				</configuration>
+			</plugin>	
 		</plugins>
 
 	</build>
 	<dependencies>
+		<!-- https://mvnrepository.com/artifact/ch.fortysix/maven-postman-plugin -->
+		<dependency>
+			<groupId>ch.fortysix</groupId>
+			<artifactId>maven-postman-plugin</artifactId>
+			<version>0.1.6</version>
+		</dependency>
+
 		<!--WE NEED TO ADD TESTNG DEPENDENCIES FOR MAVEN -->
 		<dependency>
 			<groupId>org.testng</groupId>
@@ -122,6 +138,7 @@
 			<artifactId>cucumber-picocontainer</artifactId>
 			<version>7.0.0</version>
 		</dependency>
-
 	</dependencies>
+
+
 </project>
